@@ -1,2 +1,10 @@
-# CISTeam_Frontend_Tasks
-Public CIS Team MU Repo. to Upload My Tasks &amp; Study Notes in Front-end circle.
+# CIS Team MU, Front-end Tasks
+![CIS Team MU](./CIS_Team_MU.webp)
+
+### Explore Tasks by week:
+* [Week 01](#)
+* [Week 02](#)
+
+
+## Give a Star! ⭐️
+If you find this repository useful, please give it a star. Thanks!
