@@ -34,22 +34,45 @@
 * The meta tag isn't a closing element"
 
 ### Q4
-* ```html <meta charset="UTF-8">``` Supports Character Set => Arabic
-* ```html <meta name="keywords" content="web development, HTML, CSS, JavaScript">``` Meta Tag for Search engines, not shown in webpage content
-* ```html <meta name="description" content="">``` Description Meta Tag
-* ```html <meta name="viewport" content="width=device-width, initial-scale=1.0">``` Website is Responsive with viewport equal one
+```html
+<meta charset="UTF-8">
+```
+Supports Character Set => Arabic
+```html 
+<meta name="keywords" content="web development, HTML, CSS, JavaScript">
+```
+Meta Tag for Search engines, not shown in webpage content
+```html 
+<meta name="description" content="">
+```
+Description Meta Tag
+```html 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+Website is Responsive with viewport equal one
 
 ### Q5
-* ```html <!DOCTYPE html>```
+ ```html
+<!DOCTYPE HTML>
+```
 * If you do not write <!DOCTYPE html>, it will recognize the version of the html tag
 * Yes, we can use more than one h1, but the page ordering system must be followed
 * This is possible because we hierarchically write the tags according to the importance and importance of that title
 * It is the arrangement of fonts according to their size, where the largest size is h1 and the smallest size is h6
 
 ### Q6
-  ```html <p class="element">Welcome To The New World</p>``` Specifies the value between double quotes
-```html <p class='element'>Welcome To The New World</p>``` Specifies the value between single quotes
-```html <p class=element>Welcome To The New World</p>``` Specifies the value without using quotes
+  ```html 
+<p class="element">Welcome To The New World</p>
+``` 
+Specifies the value between double quotes
+```html 
+<p class='element'>Welcome To The New World</p>
+``` 
+Specifies the value between single quotes
+```html 
+<p class=element>Welcome To The New World</p>
+``` 
+Specifies the value without using quotes
 
 * You can add to an attribute a single quotation or double quotation.
 * If you want to delete this quotation, and the value of an attribute is a sentence, then you can consider this value as the first of the sentence, and the rest takes the same color as an attribute.
