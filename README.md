@@ -2,8 +2,8 @@
 ![CIS Team MU](./CIS_Team_MU.webp)
 
 ### Explore Tasks by week:
-* [Week 01](#)
-* [Week 02](#)
+* [Week 01](/Week_01/)
+* [Week 02](/Week_02/)
 
 
 ## Give a Star! ⭐️
